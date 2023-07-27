@@ -1,0 +1,8 @@
+.poll {
+  width: 400px;
+  padding: 1.5rem;
+  margin: 50px;
+  font-family: sans-serif;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
